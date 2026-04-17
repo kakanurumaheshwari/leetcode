@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kakanurumaheshwari/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kakanurumaheshwari/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kakanurumaheshwari/leetcode/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kakanurumaheshwari/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kakanurumaheshwari/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kakanurumaheshwari/leetcode/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/kakanurumaheshwari/leetcode/tree/master/0695-max-area-of-island) |
@@ -17,6 +19,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kakanurumaheshwari/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kakanurumaheshwari/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kakanurumaheshwari/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/kakanurumaheshwari/leetcode/tree/master/0542-01-matrix) |
@@ -27,10 +30,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kakanurumaheshwari/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kakanurumaheshwari/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kakanurumaheshwari/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kakanurumaheshwari/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kakanurumaheshwari/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
