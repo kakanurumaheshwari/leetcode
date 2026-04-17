@@ -67,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/kakanurumaheshwari/leetcode/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
 ## String
 |  |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kakanurumaheshwari/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kakanurumaheshwari/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
