@@ -73,11 +73,13 @@
 | [0202-happy-number](https://github.com/kakanurumaheshwari/leetcode/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/kakanurumaheshwari/leetcode/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/kakanurumaheshwari/leetcode/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kakanurumaheshwari/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kakanurumaheshwari/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +107,9 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/kakanurumaheshwari/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
