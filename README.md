@@ -12,6 +12,7 @@
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kakanurumaheshwari/leetcode/tree/master/0733-flood-fill) |
 | [0929-unique-email-addresses](https://github.com/kakanurumaheshwari/leetcode/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,10 +87,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/kakanurumaheshwari/leetcode/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/kakanurumaheshwari/leetcode/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kakanurumaheshwari/leetcode/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0169-majority-element](https://github.com/kakanurumaheshwari/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kakanurumaheshwari/leetcode/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kakanurumaheshwari/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/kakanurumaheshwari/leetcode/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
@@ -134,4 +138,16 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kakanurumaheshwari/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kakanurumaheshwari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
